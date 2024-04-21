@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@a-2-c-2-anpm/neque-iste-eum",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/a-2-c-2-anpm/neque-iste-eum.git"
   },
   "dependencies": {
+    "@ajhgwdjnpm/quas-mollitia-aspernatur-reprehenderit": "^1.0.0"
   }
 }
